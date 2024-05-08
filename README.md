@@ -1,16 +1,15 @@
 ## Musicapp
 ### That was short project(remotely)
-* First point
-- Nested point
-Feature
+
+###Feature
 * Natural tone
 - mood music
 - download option
 - add favourite
 
-  Development tool:
-    > Flutter
-    > Getx Statemanagement
-    > Hive (Local Stroage)
-    > Google Drive (Store Music)
+###Development tool:
+* Flutter
+- Getx Statemanagement
+- Hive (Local Stroage)
+- Google Drive (Store Music)
     
