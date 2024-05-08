@@ -1,13 +1,13 @@
 ## Musicapp
 ### That was short project(remotely)
 
-###Feature
+### Feature
 * Natural tone
 - mood music
 - download option
 - add favourite
 
-###Development tool:
+### Development tool:
 * Flutter
 - Getx Statemanagement
 - Hive (Local Stroage)
