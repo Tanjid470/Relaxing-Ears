@@ -1,7 +1,6 @@
 ## Musicapp
 ### That was short project(remotely)
-
-  Feature
+Feature
  Natural tone
  mood music
    download option
